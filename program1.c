@@ -1,5 +1,5 @@
 #include <stdio.h>
 
-int main(){
-	printf("EIEI\n");
+int main(argument1,argument2){
+	printf("EIEIza55+\n");
 }
